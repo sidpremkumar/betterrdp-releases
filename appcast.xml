@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>BetterRDP</title>
+    <item>
+      <title>BetterRDP 1.0.126</title>
+      <pubDate>Sun, 22 Nov 2026 19:59:23 +0000</pubDate>
+      <sparkle:version>202611221957</sparkle:version>
+      <sparkle:shortVersionString>1.0.126</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul>
+<li>The Mac app now updates itself</li>
+<li>New main window with the full set of controls</li>
+<li>Improved pairing and relay presence</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/sidpremkumar/betterrdp-releases/releases/download/mac-v1.0.126-202611221957/BetterRDP-1.0.126-202611221957.zip" type="application/octet-stream" sparkle:edSignature="INOlGy/1gc/1OazJmjZEO+aa9zsKOJdXnFclxMTNiUzljwBIWI63svrK5yQrsxqosEh6AxvEpk2Os6mdUhIyDQ==" length="6246735" />
+    </item>
+  </channel>
+</rss>
