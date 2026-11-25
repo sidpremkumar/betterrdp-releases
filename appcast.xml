@@ -3,15 +3,15 @@
   <channel>
     <title>BetterRDP</title>
     <item>
-      <title>BetterRDP 1.0.132</title>
-      <pubDate>Wed, 25 Nov 2026 13:36:07 +0000</pubDate>
-      <sparkle:version>202611251335</sparkle:version>
-      <sparkle:shortVersionString>1.0.132</sparkle:shortVersionString>
+      <title>BetterRDP 1.0.133</title>
+      <pubDate>Wed, 25 Nov 2026 13:40:48 +0000</pubDate>
+      <sparkle:version>202611251339</sparkle:version>
+      <sparkle:shortVersionString>1.0.133</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul>
-<li>Shows a "Phone input is blocked" warning (with Open Settings) when Accessibility is off, instead of silently ignoring clicks and typing.</li>
+<li>Mirroring a Retina display now streams at 1x: much less lag over the phone link.</li>
 </ul>]]></description>
-      <enclosure url="https://github.com/sidpremkumar/betterrdp-releases/releases/download/mac-v1.0.132-202611251335/BetterRDP-1.0.132-202611251335.zip" type="application/octet-stream" sparkle:edSignature="pcDrtdsYWBE70dpHcviHD5x/rypf3CSJGI+U0rzEqYpwbWjjVGz+G3u9WbCDYiC6YZ4+QvdHbtpljZlMhB5lCg==" length="6276875" />
+      <enclosure url="https://github.com/sidpremkumar/betterrdp-releases/releases/download/mac-v1.0.133-202611251339/BetterRDP-1.0.133-202611251339.zip" type="application/octet-stream" sparkle:edSignature="pQ//ONkIMOkaGZ2c283WfLJG5xgQHbObXi7Asmbl82fe5VGb0jyYvUVkiHJCjH3adUwuWmKccRhz23hBGaGzDQ==" length="6276870" />
     </item>
   </channel>
 </rss>
