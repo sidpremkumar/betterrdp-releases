@@ -3,15 +3,15 @@
   <channel>
     <title>BetterRDP</title>
     <item>
-      <title>BetterRDP 1.0.133</title>
-      <pubDate>Wed, 25 Nov 2026 13:40:48 +0000</pubDate>
-      <sparkle:version>202611251339</sparkle:version>
-      <sparkle:shortVersionString>1.0.133</sparkle:shortVersionString>
+      <title>BetterRDP 1.0.134</title>
+      <pubDate>Wed, 25 Nov 2026 14:00:22 +0000</pubDate>
+      <sparkle:version>202611251359</sparkle:version>
+      <sparkle:shortVersionString>1.0.134</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul>
-<li>Mirroring a Retina display now streams at 1x: much less lag over the phone link.</li>
+<li>Mirroring can now resize the Mac display to match your iPhone ("Match iPhone Resolution" on the phone); restored when you disconnect.</li>
 </ul>]]></description>
-      <enclosure url="https://github.com/sidpremkumar/betterrdp-releases/releases/download/mac-v1.0.133-202611251339/BetterRDP-1.0.133-202611251339.zip" type="application/octet-stream" sparkle:edSignature="pQ//ONkIMOkaGZ2c283WfLJG5xgQHbObXi7Asmbl82fe5VGb0jyYvUVkiHJCjH3adUwuWmKccRhz23hBGaGzDQ==" length="6276870" />
+      <enclosure url="https://github.com/sidpremkumar/betterrdp-releases/releases/download/mac-v1.0.134-202611251359/BetterRDP-1.0.134-202611251359.zip" type="application/octet-stream" sparkle:edSignature="kQDRL6DAhMKwf10f/CWyrcJqkv8KvzRgY6lMy5gD7ElxvTCpaXic7Zzyjh7iKKyjXU1KX5nzlPjTwPuM7xR2Cg==" length="6300149" />
     </item>
   </channel>
 </rss>
