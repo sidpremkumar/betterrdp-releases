@@ -3,17 +3,15 @@
   <channel>
     <title>BetterRDP</title>
     <item>
-      <title>BetterRDP 1.0.126</title>
-      <pubDate>Sun, 22 Nov 2026 19:59:23 +0000</pubDate>
-      <sparkle:version>202611221957</sparkle:version>
-      <sparkle:shortVersionString>1.0.126</sparkle:shortVersionString>
+      <title>BetterRDP 1.0.128</title>
+      <pubDate>Wed, 25 Nov 2026 13:15:06 +0000</pubDate>
+      <sparkle:version>202611251314</sparkle:version>
+      <sparkle:shortVersionString>1.0.128</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul>
-<li>The Mac app now updates itself</li>
-<li>New main window with the full set of controls</li>
-<li>Improved pairing and relay presence</li>
+<li>Fixed: black screen + repeating Screen Recording prompt. The server now waits for the permission and restarts itself once it is granted.</li>
 </ul>]]></description>
-      <enclosure url="https://github.com/sidpremkumar/betterrdp-releases/releases/download/mac-v1.0.126-202611221957/BetterRDP-1.0.126-202611221957.zip" type="application/octet-stream" sparkle:edSignature="INOlGy/1gc/1OazJmjZEO+aa9zsKOJdXnFclxMTNiUzljwBIWI63svrK5yQrsxqosEh6AxvEpk2Os6mdUhIyDQ==" length="6246735" />
+      <enclosure url="https://github.com/sidpremkumar/betterrdp-releases/releases/download/mac-v1.0.128-202611251314/BetterRDP-1.0.128-202611251314.zip" type="application/octet-stream" sparkle:edSignature="wkaarYHnDXeh71Uz4+I9tW+czFl9hFmpXDTg/sg8/mtjoqlnBLKRjGUDM42V0w2NEnpoyr95TqKUVVCIsrYcBQ==" length="6257742" />
     </item>
   </channel>
 </rss>
