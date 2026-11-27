@@ -3,15 +3,16 @@
   <channel>
     <title>BetterRDP</title>
     <item>
-      <title>BetterRDP 1.0.139</title>
-      <pubDate>Fri, 27 Nov 2026 22:26:33 +0000</pubDate>
-      <sparkle:version>202611272225</sparkle:version>
-      <sparkle:shortVersionString>1.0.139</sparkle:shortVersionString>
+      <title>BetterRDP 1.0.140</title>
+      <pubDate>Fri, 27 Nov 2026 23:01:43 +0000</pubDate>
+      <sparkle:version>202611272300</sparkle:version>
+      <sparkle:shortVersionString>1.0.140</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul>
-<li>Unlock your Mac from the phone: the lock screen now accepts the password you type remotely</li>
+<li>Faster connect: the display is built once, in the view your device last used</li>
+<li>Three-finger swipe up/down from the phone opens Mission Control / App Exposé reliably</li>
 </ul>]]></description>
-      <enclosure url="https://github.com/sidpremkumar/betterrdp-releases/releases/download/mac-v1.0.139-202611272225/BetterRDP-1.0.139-202611272225.zip" type="application/octet-stream" sparkle:edSignature="v9cYA+pwjvFoRVXN/WvppP4gjQ29SEZAiY/chQt+gAWdzzV9HY8Xe4tsqBlJKgwL0jsLKWNauBf9jaUrUatvBw==" length="6334003" />
+      <enclosure url="https://github.com/sidpremkumar/betterrdp-releases/releases/download/mac-v1.0.140-202611272300/BetterRDP-1.0.140-202611272300.zip" type="application/octet-stream" sparkle:edSignature="xwpCp3N+bGK79j7V6Q1vTeUQNapi6XtgERcrL/x1dfcVKPzaqH01Jrmw3+DUdYL+FEm/m5KtleCVXacnmmJmDA==" length="6337763" />
     </item>
   </channel>
 </rss>
