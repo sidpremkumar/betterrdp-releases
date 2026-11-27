@@ -3,15 +3,16 @@
   <channel>
     <title>BetterRDP</title>
     <item>
-      <title>BetterRDP 1.0.134</title>
-      <pubDate>Wed, 25 Nov 2026 14:00:22 +0000</pubDate>
-      <sparkle:version>202611251359</sparkle:version>
-      <sparkle:shortVersionString>1.0.134</sparkle:shortVersionString>
+      <title>BetterRDP 1.0.135</title>
+      <pubDate>Fri, 27 Nov 2026 17:29:36 +0000</pubDate>
+      <sparkle:version>202611271728</sparkle:version>
+      <sparkle:shortVersionString>1.0.135</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul>
-<li>Mirroring can now resize the Mac display to match your iPhone ("Match iPhone Resolution" on the phone); restored when you disconnect.</li>
+<li>Pair iPhone now works when the phone is away from your Mac's network (through the relay)</li>
+<li>The server keeps running while pairing</li>
 </ul>]]></description>
-      <enclosure url="https://github.com/sidpremkumar/betterrdp-releases/releases/download/mac-v1.0.134-202611251359/BetterRDP-1.0.134-202611251359.zip" type="application/octet-stream" sparkle:edSignature="kQDRL6DAhMKwf10f/CWyrcJqkv8KvzRgY6lMy5gD7ElxvTCpaXic7Zzyjh7iKKyjXU1KX5nzlPjTwPuM7xR2Cg==" length="6300149" />
+      <enclosure url="https://github.com/sidpremkumar/betterrdp-releases/releases/download/mac-v1.0.135-202611271728/BetterRDP-1.0.135-202611271728.zip" type="application/octet-stream" sparkle:edSignature="siSle6cOK6GZOD7q4wG918cE0RvmsgVkIM34suM/OrZe/UfXYXqNpsmUDEjoHe2RI4jQXzxVL3UgBWJZW3q/BQ==" length="6331576" />
     </item>
   </channel>
 </rss>
