@@ -3,15 +3,15 @@
   <channel>
     <title>BetterRDP</title>
     <item>
-      <title>BetterRDP 1.0.141</title>
-      <pubDate>Fri, 27 Nov 2026 23:41:14 +0000</pubDate>
-      <sparkle:version>202611272340</sparkle:version>
-      <sparkle:shortVersionString>1.0.141</sparkle:shortVersionString>
+      <title>BetterRDP 1.0.142</title>
+      <pubDate>Fri, 27 Nov 2026 23:48:48 +0000</pubDate>
+      <sparkle:version>202611272347</sparkle:version>
+      <sparkle:shortVersionString>1.0.142</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul>
-<li>Fast connect even right after a restart or update: each device's last view is remembered on disk</li>
+<li>Fixed: the server could not restart while the Mac was locked (after an update or crash), leaving it unreachable until unlocked</li>
 </ul>]]></description>
-      <enclosure url="https://github.com/sidpremkumar/betterrdp-releases/releases/download/mac-v1.0.141-202611272340/BetterRDP-1.0.141-202611272340.zip" type="application/octet-stream" sparkle:edSignature="AEcnDRsoUKJoz3PwecEtwGhfGdpYSCBJRi4X7H6jwLNBQxSRr/aYqGfC+SV2GCQRFh/8B+RxkIICgaRu81/GDA==" length="6341354" />
+      <enclosure url="https://github.com/sidpremkumar/betterrdp-releases/releases/download/mac-v1.0.142-202611272347/BetterRDP-1.0.142-202611272347.zip" type="application/octet-stream" sparkle:edSignature="thFd8ZuTJel2MIcUBP1j/EHtGBl8jO91nPI+OqHuIvgTBem0nLFBH0mUT6lGy0dPhkJZ6gtaRJW5GybyBrtbBw==" length="6344570" />
     </item>
   </channel>
 </rss>
