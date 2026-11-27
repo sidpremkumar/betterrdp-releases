@@ -3,16 +3,15 @@
   <channel>
     <title>BetterRDP</title>
     <item>
-      <title>BetterRDP 1.0.138</title>
-      <pubDate>Fri, 27 Nov 2026 22:14:50 +0000</pubDate>
-      <sparkle:version>202611272213</sparkle:version>
-      <sparkle:shortVersionString>1.0.138</sparkle:shortVersionString>
+      <title>BetterRDP 1.0.139</title>
+      <pubDate>Fri, 27 Nov 2026 22:26:33 +0000</pubDate>
+      <sparkle:version>202611272225</sparkle:version>
+      <sparkle:shortVersionString>1.0.139</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul>
-<li>Pair your iPhone from any network (through the relay); the server stays up while pairing</li>
-<li>Fixed: an unpaired phone retrying could lock pairing</li>
+<li>Unlock your Mac from the phone: the lock screen now accepts the password you type remotely</li>
 </ul>]]></description>
-      <enclosure url="https://github.com/sidpremkumar/betterrdp-releases/releases/download/mac-v1.0.138-202611272213/BetterRDP-1.0.138-202611272213.zip" type="application/octet-stream" sparkle:edSignature="crk5Aoz9oBa6n4y9GRO+P+0e5Pn+o3cB6swTxv2w3ZScv0AXPSsBefRU/72eSvD6ZChA9d9EgmbVCjOc9PFEDg==" length="6333308" />
+      <enclosure url="https://github.com/sidpremkumar/betterrdp-releases/releases/download/mac-v1.0.139-202611272225/BetterRDP-1.0.139-202611272225.zip" type="application/octet-stream" sparkle:edSignature="v9cYA+pwjvFoRVXN/WvppP4gjQ29SEZAiY/chQt+gAWdzzV9HY8Xe4tsqBlJKgwL0jsLKWNauBf9jaUrUatvBw==" length="6334003" />
     </item>
   </channel>
 </rss>
