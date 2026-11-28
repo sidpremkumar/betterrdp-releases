@@ -3,15 +3,15 @@
   <channel>
     <title>BetterRDP</title>
     <item>
-      <title>BetterRDP 1.0.144</title>
-      <pubDate>Sat, 28 Nov 2026 15:53:18 +0000</pubDate>
-      <sparkle:version>202611281552</sparkle:version>
-      <sparkle:shortVersionString>1.0.144</sparkle:shortVersionString>
+      <title>BetterRDP 1.0.145</title>
+      <pubDate>Sat, 28 Nov 2026 16:03:55 +0000</pubDate>
+      <sparkle:version>202611281602</sparkle:version>
+      <sparkle:shortVersionString>1.0.145</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul>
-<li>Steadier picture quality while scrolling and dragging: the bitrate no longer halves itself on a healthy connection</li>
+<li>Smoother scrolls and drags: large frames no longer wait in the send queue, and a scene resync no longer floods the connection</li>
 </ul>]]></description>
-      <enclosure url="https://github.com/sidpremkumar/betterrdp-releases/releases/download/mac-v1.0.144-202611281552/BetterRDP-1.0.144-202611281552.zip" type="application/octet-stream" sparkle:edSignature="iPOSQtmsupGoPw3fMwLX/ftGcaQgmSmkVnVBNWO7iM2zsg5lwlokK/Ekdzrl2dF2vXwD/cC+Fypg7aQCryjsBQ==" length="6347608" />
+      <enclosure url="https://github.com/sidpremkumar/betterrdp-releases/releases/download/mac-v1.0.145-202611281602/BetterRDP-1.0.145-202611281602.zip" type="application/octet-stream" sparkle:edSignature="dyergZ/VECxcGi1t30XmV02H+z6X4Ufl58Dl/0HJ1t7ikdQXM5CAJbO0M/INe66yjmm0Re1rIfudW3Nt1o5dBA==" length="6350247" />
     </item>
   </channel>
 </rss>
