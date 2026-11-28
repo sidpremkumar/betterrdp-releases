@@ -3,15 +3,15 @@
   <channel>
     <title>BetterRDP</title>
     <item>
-      <title>BetterRDP 1.0.142</title>
-      <pubDate>Fri, 27 Nov 2026 23:48:48 +0000</pubDate>
-      <sparkle:version>202611272347</sparkle:version>
-      <sparkle:shortVersionString>1.0.142</sparkle:shortVersionString>
+      <title>BetterRDP 1.0.143</title>
+      <pubDate>Sat, 28 Nov 2026 13:53:09 +0000</pubDate>
+      <sparkle:version>202611281351</sparkle:version>
+      <sparkle:shortVersionString>1.0.143</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul>
-<li>Fixed: the server could not restart while the Mac was locked (after an update or crash), leaving it unreachable until unlocked</li>
+<li>Much sharper and smoother on relay and cellular connections: the stream no longer drops to half resolution at 15 fps on links that can carry full quality</li>
 </ul>]]></description>
-      <enclosure url="https://github.com/sidpremkumar/betterrdp-releases/releases/download/mac-v1.0.142-202611272347/BetterRDP-1.0.142-202611272347.zip" type="application/octet-stream" sparkle:edSignature="thFd8ZuTJel2MIcUBP1j/EHtGBl8jO91nPI+OqHuIvgTBem0nLFBH0mUT6lGy0dPhkJZ6gtaRJW5GybyBrtbBw==" length="6344570" />
+      <enclosure url="https://github.com/sidpremkumar/betterrdp-releases/releases/download/mac-v1.0.143-202611281351/BetterRDP-1.0.143-202611281351.zip" type="application/octet-stream" sparkle:edSignature="veDolf1uDgRjCdPQ6FiRJ0lqK4dNNvA+LefUtyfjYQfroDVWpYZKIsdU/Z2VUWID9h1PVkj0mzryGOIBZgSMBA==" length="6345058" />
     </item>
   </channel>
 </rss>
